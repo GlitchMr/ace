@@ -86,6 +86,7 @@ var docs = {
     "docs/Haxe.hx": "haXe",
     "docs/html.html": "HTML",
     "docs/html_ruby.erb": "HTML (Ruby)",
+    "docs/html_bbcode.bbcode": "HTML (BBCode)",
     "docs/jade.jade": "Jade",
     "docs/java.java": "Java",
     "docs/jsp.jsp": "JSP",
@@ -140,7 +141,7 @@ var docs = {
     "docs/xquery.xq": "XQuery",
     "docs/yaml.yaml": "YAML",
     "docs/c9search.c9search_results": "C9 Search Results",
-    
+
     "docs/actionscript.as": "ActionScript",
     "docs/assembly_x86.asm": "Assembly_x86",
     "docs/autohotkey.ahk": "AutoHotKey",
